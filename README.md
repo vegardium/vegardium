@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**vegardium/vegardium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science** student specializing in **Cybersecurity**, currently in my 3rd semester.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Interests
+- Cryptography is my passion! 📜🔑
+- Exploring network traffic with Wireshark 🕵️‍♂️
+- **Capture the Flag (CTF) enthusiast** 🏴‍☠️
+- Still on my learning journey—there's always more to uncover!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages & Tools
+- Python 🐍
+- C 🖥️
+- Wireshark 📊
+- Bash scripting (basic) 🛠️
+
+## 🧠 Fun fact
+"Life is like an elliptic curve... complicated, but with the right point, things start to make sense." 😉
+
+## 📚 Currently Learning
+- Cryptographic algorithms and techniques
+- Computer architecture and organization
+- Enhancing my coding skills in C and Python
+
