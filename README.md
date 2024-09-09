@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vegard 👋
 
 I'm a **Computer Science** student specializing in **Cybersecurity**, currently in my 3rd semester.
 
