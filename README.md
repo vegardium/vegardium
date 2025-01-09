@@ -4,7 +4,6 @@ I'm a **Computer Science** student specializing in **Cybersecurity**, currently 
 
 ## 🔐 Cybersecurity Interests
 - Cryptography is my passion! 📜🔑
-- Exploring network traffic with Wireshark 🕵️‍♂️
 - **Capture the Flag (CTF) enthusiast** 🏴‍☠️
 - Still on my learning journey—there's always more to uncover!
 
